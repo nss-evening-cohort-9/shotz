@@ -1,0 +1,66 @@
+{
+	"locations": [{
+			"id": "location1",
+			"imageUrl": "https://www.roadsideamerica.com/attract/images/ks/KSCAWtwine2.jpg",
+			"name": "World's Largest Ball of Twine1",
+			"address": "1 Wisconsin St, Cawker City, KS 67430",
+			"shootTime": "Morning"
+		},
+		{
+			"id": "location2",
+			"imageUrl": "https://www.roadsideamerica.com/attract/images/ks/KSCAWtwine2.jpg",
+			"name": "World's Largest Ball of Twine2",
+			"address": "2 Wisconsin St, Cawker City, KS 67430",
+			"shootTime": "Afternoon"
+		},
+		{
+			"id": "location3",
+			"imageUrl": "https://www.roadsideamerica.com/attract/images/ks/KSCAWtwine2.jpg",
+			"name": "World's Largest Ball of Twine3",
+			"address": "3 Wisconsin St, Cawker City, KS 67430",
+			"shootTime": "Evening"
+		},
+		{
+			"id": "location4",
+			"imageUrl": "https://www.roadsideamerica.com/attract/images/ks/KSCAWtwine2.jpg",
+			"name": "World's Largest Ball of Twine4",
+			"address": "4 Wisconsin St, Cawker City, KS 67430",
+			"shootTime": "After Dark"
+		},
+		{
+			"id": "location5",
+			"imageUrl": "https://www.roadsideamerica.com/attract/images/ks/KSCAWtwine2.jpg",
+			"name": "World's Largest Ball of Twine5",
+			"address": "5 Wisconsin St, Cawker City, KS 67430",
+			"shootTime": "Morning"
+		},
+		{
+			"id": "location6",
+			"imageUrl": "https://www.roadsideamerica.com/attract/images/ks/KSCAWtwine2.jpg",
+			"name": "World's Largest Ball of Twine6",
+			"address": "6 Wisconsin St, Cawker City, KS 67430",
+			"shootTime": "Afternoon"
+		},
+		{
+			"id": "location7",
+			"imageUrl": "https://www.roadsideamerica.com/attract/images/ks/KSCAWtwine2.jpg",
+			"name": "World's Largest Ball of Twine7",
+			"address": "7 Wisconsin St, Cawker City, KS 67430",
+			"shootTime": "Evening"
+		},
+		{
+			"id": "location8",
+			"imageUrl": "https://www.roadsideamerica.com/attract/images/ks/KSCAWtwine2.jpg",
+			"name": "World's Largest Ball of Twine8",
+			"address": "8 Wisconsin St, Cawker City, KS 67430",
+			"shootTime": "After Dark"
+		},
+		{
+			"id": "location9",
+			"imageUrl": "https://www.roadsideamerica.com/attract/images/ks/KSCAWtwine2.jpg",
+			"name": "World's Largest Ball of Twine9",
+			"address": "9 Wisconsin St, Cawker City, KS 67430",
+			"shootTime": "Afternoon"
+		}
+	]
+}
